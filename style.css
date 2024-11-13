@@ -1,6 +1,16 @@
-body(
+body{
+    background-color: black;
+    color: aliceblue;
 
-background-color:black
-color: rgb (236,241,245);
-)
+}
+ section{
+      background-color: blueviolet;
+      padding-top: 80px;
+     padding-bottom: 80px;
+    display: flex;
+     justify-content: center;
+ }
+  .chamada-texto{
 
+    
+  }
